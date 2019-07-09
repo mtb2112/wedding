@@ -1,0 +1,22 @@
+{
+  "name": "wedding-theme",
+  "version": "1.0.0",
+  "description": "Wedding child theme of Idylle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtb2112/wedding.git"
+  },
+  "author": "Paul Guardino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtb2112/wedding/issues"
+  },
+  "homepage": "https://github.com/mtb2112/wedding#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
